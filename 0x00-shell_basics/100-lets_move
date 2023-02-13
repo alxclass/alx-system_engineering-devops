@@ -1,2 +1,2 @@
-#!/bim/bash
-mv [[:upper:]]* /tmp/u
+#!/bim/bashmv
+"$file" /tmp/u/
